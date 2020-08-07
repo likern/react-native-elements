@@ -35,7 +35,7 @@
   "dependencies": {
     "lodash.merge": "^4.6.1",
     "lodash.times": "^4.3.2",
-    "opencollective-postinstall": "^2.0.0",
+    "opencollective-postinstall": "^2.0.3",
     "prop-types": "^15.5.8"
   },
   "devDependencies": {
